@@ -1,6 +1,6 @@
 # ohos-sdk-dailybuild
 
-本组织下的许多项目都依赖最新版的 ohos-sdk 的能力，如二进制签名工具（为二进制文件加代码签名以支持它运行在商用发行版 HarmonyOS 上）、原生编译器（允许用户在 ohos 系统上编 ohos 的产物）等。
+本组织下的许多项目都依赖最新版的 ohos-sdk 的能力，如二进制签名工具（为二进制文件加代码签名）、原生编译器（允许用户在 ohos 系统上编 ohos 的产物）等。
 
 这部分能力在 [6.0 正式版的 ohos-sdk](https://gitcode.com/openharmony/docs/blob/master/zh-cn/release-notes/OpenHarmony-v6.0-release.md#%E4%BB%8E%E9%95%9C%E5%83%8F%E7%AB%99%E7%82%B9%E8%8E%B7%E5%8F%96) 上还尚未提供，因此我们只能从 [OpenHarmony 官方社区的流水线](https://ci.openharmony.cn/) 下载每日构建版本的 ohos-sdk 来使用。
 
